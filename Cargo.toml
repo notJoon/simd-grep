@@ -1,0 +1,11 @@
+[package]
+name = "simd-grep"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bitflags = "2.9.4"
+memchr = "2.7"
+
+[dev-dependencies]
+rand = "0.8"
